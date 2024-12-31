@@ -19,9 +19,7 @@ This is a simple **Instagram Clone** built using HTML, CSS, and JavaScript. The 
 ## Installation and Setup
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/euii-ii/insta-clone.git
-   ```
+ https://github.com/euii-ii/insta-clone.git
 
 2. **Open the project**:
    - Open the `index.html` file in your preferred web browser.
