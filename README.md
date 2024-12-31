@@ -20,7 +20,7 @@ This is a simple **Instagram Clone** built using HTML, CSS, and JavaScript. The 
 
 1. **Clone the repository**:
    ```bash
-   git clone(https://github.com/euii-ii/insta-clone.git)
+   git clone https://github.com/euii-ii/insta-clone.git
    ```
 
 2. **Open the project**:
