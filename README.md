@@ -2,7 +2,6 @@
 
 This is a simple **Instagram Clone** built using HTML, CSS, and JavaScript. The project aims to replicate the core functionalities and design of Instagram's user interface while providing an opportunity to practice front-end development skills.
 
-
 ## Features
 
 - **User Interface**: Responsive layout inspired by Instagram's clean and modern design.
